@@ -1,0 +1,13 @@
+# Ignore VPN and security keys/certs/configs
+*.key
+*.crt
+*.conf
+
+# Ignore sensitive folders
+openvpn/**/pki/
+wireguard/wireguard/
+
+# Node/Python/system-related (if needed later)
+__pycache__/
+*.pyc
+.env
