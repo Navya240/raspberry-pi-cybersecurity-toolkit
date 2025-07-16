@@ -34,10 +34,13 @@ pi-cybersecurity-project/
 ## 🛑 Disclaimer
 
 This project is strictly for **educational** and **personal lab use** only. Use of any offensive tools against unauthorized systems is prohibited.
-## 📌 Credits & License
 
 ---
 
-MIT License | Built by [Navya Machhi](https://www.linkedin.com/in/navya-machhi-/)
+## 📌 Credits & License
+
+This project is intended for **educational and personal use only**.  
+Please do not reuse, republish, or resell any part of this project without permission.
+Built by [Navya Machhi](https://www.linkedin.com/in/navya-machhi-/)
 
 ---
