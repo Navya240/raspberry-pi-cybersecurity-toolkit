@@ -38,6 +38,6 @@ This project is strictly for **educational** and **personal lab use** only. Use 
 
 ---
 
-MIT License | Built by [Navya Machhi](https://www.linkedin.com/in/navya-machhi/)
+MIT License | Built by [Navya Machhi](https://www.linkedin.com/in/navya-machhi-/)
 
 ---
