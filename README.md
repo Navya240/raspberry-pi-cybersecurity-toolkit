@@ -23,12 +23,21 @@ pi-cybersecurity-project/
 
 ---
 
-## 🔐 Security Note
+## 🔒 Security Notes
 
-This project is for **educational and personal use only**. Do **not** use any tools here against systems you do not own or have permission to test.
+- No real private keys or certificates are included.
+- Configuration files are either templated or stripped of personal info.
+- Always test these tools in an environment you control and have permission to use.
 
 ---
 
+## 🛑 Disclaimer
+
+This project is strictly for **educational** and **personal lab use** only. Use of any offensive tools against unauthorized systems is prohibited.
 ## 📌 Credits & License
 
+---
+
 MIT License | Built by [Navya Machhi](https://www.linkedin.com/in/navya-machhi/)
+
+---
